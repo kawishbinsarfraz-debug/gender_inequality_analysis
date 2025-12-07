@@ -21,4 +21,4 @@ This repository contains my course project for CS 591 - Tools & Techniques for D
 - Commits with messages  
 - Merging  
 - Tags  
-- Optional: GitHub upload  
+- GitHub upload  
